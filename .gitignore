@@ -2,4 +2,3 @@ venv/*
 .vscode/*
 __pycache__/*
 csvtojson/__pycache__/*
-data/*
