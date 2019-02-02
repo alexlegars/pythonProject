@@ -26,10 +26,10 @@ OR<br/>
 `python3 app.py`
 
 Then, go on your browser and type for example :<br/>
-[http://127.0.0.1:5000/gt/197000000001](http://127.0.0.1:5000/gt/197000000001)
+[http://127.0.0.1:5000/gt/197000000001](http://127.0.0.1:5000/gt/197000000001)<br/>
 Then, you will have the result in json of the Terrorist attack with the ID 197000000001
 
-Coming up next:
-    - Cleaning of the useless or worthless columns
-    - Request by something else than the ID (country or year for instance)
+Coming up next:<br/>
+    - Cleaning of the useless or worthless columns<br/>
+    - Request by something else than the ID (country or year for instance)<br/>
     - Solution to make the search quicker
