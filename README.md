@@ -3,7 +3,6 @@
 This API allows you to get terrorists attacks, in json, with all the details of the attacks.
 
 ## Initialization
-------
 
 You first have to download the dataset in csv at this [link](https://www.kaggle.com/START-UMD/gtd)
 Or, you can download the csv with this command if you have kaggle installed : <br/>
@@ -20,7 +19,6 @@ OR <br/>
 `python3 csvtojson/parser.py`
 
 ## API
-------
 
 To use the API, you have to launch from your console the app.py file :<br/>
 `python app.py`<br/>
